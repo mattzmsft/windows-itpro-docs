@@ -68,7 +68,7 @@ When you run ADKsetup.exe for Windows 10, version 1607, select **Configuration D
 
 6. On the **Select security details for the provisioning package**, click **Next**.
 
-    >[WARNING!]
+    >[!WARNING]
     >If you encrypt the provisioning package, provisioning the HoloLens device will fail.  
 
 7. Click **Next** to specify the output location where you want the provisioning package to go once it's built. By default, Windows Configuration Designer uses the project folder as the output location.
